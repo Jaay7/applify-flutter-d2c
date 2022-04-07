@@ -1,6 +1,6 @@
 # applify
 
-This project project is created using Flutter.
+This project is created using Flutter.
 
 The problem statement: https://dare2compete.com/api/competition/get-attachment/623556f5eac15_Applify_PS.PDF
 
