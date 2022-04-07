@@ -21,7 +21,7 @@ class _HomeState extends State<Home> {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: <Widget>[
             Text('Trackers', style: Theme.of(context).textTheme.headline6),
-            Wrap(
+            Column(
               children: [
                 GestureDetector(
                   onTap: () {
